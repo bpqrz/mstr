@@ -1,4 +1,4 @@
-heroku create myapp --buildpack heroku/python
+git push heroku master
 
 import os
 import pickle
