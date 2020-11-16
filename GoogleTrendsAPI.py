@@ -1,4 +1,5 @@
-git push heroku master
+heroku buildpacks:clear
+heroku buildpacks:add heroku/python
 
 import os
 import pickle
