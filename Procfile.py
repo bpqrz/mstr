@@ -1,1 +1,1 @@
-worker:GoogleTrendsAPI.py
+web:GoogleTrendsAPI.py
