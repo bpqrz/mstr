@@ -1,3 +1,5 @@
+requirements.txt
+git push heroku master
 heroku buildpacks:clear
 heroku buildpacks:add heroku/python
 
